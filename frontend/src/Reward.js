@@ -1,5 +1,5 @@
 import $ from "jquery";
-import algosdk from "algosdk";
+import algosdk from "https://unpkg.com/algosdk@1.13.1/dist/browser/algosdk.min.js";
 import { useEffect, useState } from "react";
 import {
   Navbar,
